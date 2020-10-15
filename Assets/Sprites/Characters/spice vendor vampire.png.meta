@@ -1,0 +1,950 @@
+fileFormatVersion: 2
+guid: 907bb3f3fe1e0f84bb6514abb3d10d31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4464378837329397963
+    second: spice vendor vampire_0
+  - first:
+      213: 8029564327908031086
+    second: spice vendor vampire_1
+  - first:
+      213: -6743731584097659339
+    second: spice vendor vampire_2
+  - first:
+      213: 7744629201499797342
+    second: spice vendor vampire_3
+  - first:
+      213: -3918096631058743503
+    second: spice vendor vampire_4
+  - first:
+      213: 8764329153815221201
+    second: spice vendor vampire_5
+  - first:
+      213: -7121156398662509456
+    second: spice vendor vampire_6
+  - first:
+      213: 607484094887420364
+    second: spice vendor vampire_7
+  - first:
+      213: 7625150350465031568
+    second: spice vendor vampire_8
+  - first:
+      213: -4008351255281590871
+    second: spice vendor vampire_9
+  - first:
+      213: 5422510044146377150
+    second: spice vendor vampire_10
+  - first:
+      213: 1754873024027293650
+    second: spice vendor vampire_11
+  - first:
+      213: 4763211511590941323
+    second: spice vendor vampire_12
+  - first:
+      213: 5862657053538342943
+    second: spice vendor vampire_13
+  - first:
+      213: -4552338465892461689
+    second: spice vendor vampire_14
+  - first:
+      213: -2151696881217423886
+    second: spice vendor vampire_15
+  - first:
+      213: -7001282015524541596
+    second: spice vendor vampire_16
+  - first:
+      213: 4925464855425062041
+    second: spice vendor vampire_17
+  - first:
+      213: -1964264481033699156
+    second: spice vendor vampire_18
+  - first:
+      213: 2038789766244039404
+    second: spice vendor vampire_19
+  - first:
+      213: 2918909318611999808
+    second: spice vendor vampire_20
+  - first:
+      213: -7106562447123643284
+    second: spice vendor vampire_21
+  - first:
+      213: 8516493097541695546
+    second: spice vendor vampire_22
+  - first:
+      213: 6581165116348592831
+    second: spice vendor vampire_23
+  - first:
+      213: -332056278186421921
+    second: spice vendor vampire_24
+  - first:
+      213: -5183547306620183512
+    second: spice vendor vampire_25
+  - first:
+      213: -2389341985265956426
+    second: spice vendor vampire_26
+  - first:
+      213: 4492143860268344557
+    second: spice vendor vampire_27
+  - first:
+      213: 2805581832914799307
+    second: spice vendor vampire_28
+  - first:
+      213: 5826010871884875722
+    second: spice vendor vampire_29
+  - first:
+      213: -2024713872585245650
+    second: spice vendor vampire_30
+  - first:
+      213: -8740722016538257626
+    second: spice vendor vampire_31
+  - first:
+      213: -2859696626367092559
+    second: spice vendor vampire_32
+  - first:
+      213: 56153192887868420
+    second: spice vendor vampire_33
+  - first:
+      213: 6859482372459914760
+    second: spice vendor vampire_34
+  - first:
+      213: -5432438964680530755
+    second: spice vendor vampire_35
+  - first:
+      213: -4564743423142576199
+    second: spice vendor vampire_36
+  - first:
+      213: 7524525784307868450
+    second: spice vendor vampire_37
+  - first:
+      213: 4115345613082990136
+    second: spice vendor vampire_38
+  - first:
+      213: -1548316395454982936
+    second: spice vendor vampire_39
+  - first:
+      213: 1866678877783732527
+    second: spice vendor vampire_40
+  - first:
+      213: -755734411231691864
+    second: spice vendor vampire_41
+  - first:
+      213: -8076139193153055121
+    second: spice vendor vampire_42
+  - first:
+      213: -6921914013133473658
+    second: spice vendor vampire_43
+  - first:
+      213: 9200356128770649647
+    second: spice vendor vampire_44
+  - first:
+      213: 721765902434776842
+    second: spice vendor vampire_45
+  - first:
+      213: 1243639414831552486
+    second: spice vendor vampire_46
+  - first:
+      213: 3212339550595722250
+    second: spice vendor vampire_47
+  - first:
+      213: 4498448282998938796
+    second: spice vendor vampire_48
+  - first:
+      213: -5269706417309784902
+    second: spice vendor vampire_49
+  - first:
+      213: -2768997826793233580
+    second: spice vendor vampire_50
+  - first:
+      213: 9043899583692934644
+    second: spice vendor vampire_51
+  - first:
+      213: -7615170413543656147
+    second: spice vendor vampire_52
+  - first:
+      213: -2042695645636473503
+    second: spice vendor vampire_53
+  - first:
+      213: -3269075878926734558
+    second: spice vendor vampire_54
+  - first:
+      213: -4522034172576728256
+    second: spice vendor vampire_55
+  - first:
+      213: -2886214216225983998
+    second: spice vendor vampire_56
+  - first:
+      213: -1173255321859609432
+    second: spice vendor vampire_57
+  - first:
+      213: -6092278680803633171
+    second: spice vendor vampire_58
+  - first:
+      213: -10243853114927779
+    second: spice vendor vampire_59
+  - first:
+      213: -51410931339608797
+    second: spice vendor vampire_60
+  - first:
+      213: -1341580772433517670
+    second: spice vendor vampire_61
+  - first:
+      213: -7208018453550082059
+    second: spice vendor vampire_62
+  - first:
+      213: 178913056248261016
+    second: spice vendor vampire_63
+  - first:
+      213: -5647171406973879242
+    second: spice vendor vampire_64
+  - first:
+      213: 139886801283414391
+    second: spice vendor vampire_65
+  - first:
+      213: 4066110293170108507
+    second: spice vendor vampire_66
+  - first:
+      213: 6686859303684065810
+    second: spice vendor vampire_67
+  - first:
+      213: -533084052591356137
+    second: spice vendor vampire_68
+  - first:
+      213: 7938714697526002329
+    second: spice vendor vampire_69
+  - first:
+      213: -6250034963839670992
+    second: spice vendor vampire_70
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spice vendor vampire_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 3093
+        width: 369
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82fd6a12a35a1240800000000000000
+      internalID: 4763211511590941323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_14
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 3088
+        width: 248
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783122bd848d2d0c0800000000000000
+      internalID: -4552338465892461689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_15
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 3091
+        width: 282
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f538b23613a322e0800000000000000
+      internalID: -2151696881217423886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_16
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 3091
+        width: 358
+        height: 427
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b245ce91376de90800000000000000
+      internalID: -7001282015524541596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_17
+      rect:
+        serializedVersion: 2
+        x: 1803
+        y: 3093
+        width: 404
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99418459034ca5440800000000000000
+      internalID: 4925464855425062041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_18
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 3093
+        width: 403
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0c1139cd78db4e0800000000000000
+      internalID: -1964264481033699156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_25
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 2510
+        width: 364
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c987030375018b0800000000000000
+      internalID: -5183547306620183512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_27
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 2508
+        width: 249
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de42f3f5a0d475e30800000000000000
+      internalID: 4492143860268344557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_28
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 2508
+        width: 282
+        height: 451
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca0d2bffcd6fe620800000000000000
+      internalID: 2805581832914799307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_29
+      rect:
+        serializedVersion: 2
+        x: 1333
+        y: 2512
+        width: 360
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7034c35062ad050800000000000000
+      internalID: 5826010871884875722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_30
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 2510
+        width: 407
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c30c4d575c6e3e0800000000000000
+      internalID: -2024713872585245650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_31
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 2508
+        width: 405
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6271dc3e2a7b2b680800000000000000
+      internalID: -8740722016538257626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_46
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1735
+        width: 351
+        height: 455
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e795bd657b424110800000000000000
+      internalID: 1243639414831552486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_47
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1730
+        width: 249
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c22333dc5849c20800000000000000
+      internalID: 3212339550595722250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_48
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1733
+        width: 282
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac1e9c21e2bd6e30800000000000000
+      internalID: 4498448282998938796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_49
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1733
+        width: 360
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab467adfeed3ed6b0800000000000000
+      internalID: -5269706417309784902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_51
+      rect:
+        serializedVersion: 2
+        x: 1777
+        y: 1735
+        width: 406
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd025631c2628d70800000000000000
+      internalID: 9043899583692934644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_52
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 1735
+        width: 405
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d257aa41bda715690800000000000000
+      internalID: -7615170413543656147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_59
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1152
+        width: 308
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5514f5154b9bdff0800000000000000
+      internalID: -10243853114927779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_61
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1152
+        width: 249
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a932b9d356fb16de0800000000000000
+      internalID: -1341580772433517670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_62
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1152
+        width: 282
+        height: 450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7dfadf769f7fb90800000000000000
+      internalID: -7208018453550082059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_63
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1153
+        width: 360
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8996b5b0a70ab7200800000000000000
+      internalID: 178913056248261016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_65
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 1150
+        width: 405
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 779734bfd4af0f100800000000000000
+      internalID: 139886801283414391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_66
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 1152
+        width: 405
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58b6f9b4c9bd6830800000000000000
+      internalID: 4066110293170108507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_67
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 582
+        width: 288
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21aca13bb1f7ccc50800000000000000
+      internalID: 6686859303684065810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_68
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 584
+        width: 288
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717ddd9e0ea1a98f0800000000000000
+      internalID: -533084052591356137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_69
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 53
+        width: 288
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992c53fc4fafb2e60800000000000000
+      internalID: 7938714697526002329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_70
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 53
+        width: 288
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035a092805a6349a0800000000000000
+      internalID: -6250034963839670992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spice vendor vampire_0
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 53
+        width: 288
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc84ac536e8a4fd30800000000000000
+      internalID: 4464378837329397963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

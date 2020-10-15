@@ -1,0 +1,25 @@
+[{
+        "Conditional": "BARKEEPER_INTERACTED"
+    },
+    {
+        "Barkeeper": "You want to know about my customers? There are a lot of them. Lots of good people."
+    },
+    {
+        "Player": "Tell me about them."
+    },
+    {
+        "Barkeeper": "There is one man who sits at the bar and stays late. He does not look like a man that wants to go home. He does not have much money, but he buys drinks anyway."
+    },
+    {
+        "Barkeeper": "There are two rowdy friends who come every day. One of them smells like garlic. They are very noisy and drink too much, but they leave before midnight."
+    },
+    {
+        "Barkeeper": "And then there is a man who might become a new regular. He just sits in the corner alone, but he buys good drinks, so he must be respectable."
+    },
+    {
+        "Barkeeper": "I must get back to work now. Too busy. Come back tomorrow if you want to talk more."
+    },
+    {
+        "EOD": "EOD"
+    }
+]

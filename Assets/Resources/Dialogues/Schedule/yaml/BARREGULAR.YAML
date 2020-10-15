@@ -1,0 +1,5 @@
+- ?: 
+    - 1:
+        - "18"
+        - NOCONDITION: "Scene0/JSON/barregular"
+        - EOD: "EOD"

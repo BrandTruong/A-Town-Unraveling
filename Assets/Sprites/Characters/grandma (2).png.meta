@@ -1,0 +1,1007 @@
+fileFormatVersion: 2
+guid: 31fec31768bd91d4fb3fe60336e5777b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8750074376657471489
+    second: grandma (2)_0
+  - first:
+      213: -7424684596073990767
+    second: grandma (2)_1
+  - first:
+      213: 4408496973533137062
+    second: grandma (2)_2
+  - first:
+      213: 4784372499255775962
+    second: grandma (2)_3
+  - first:
+      213: -8353399467217747314
+    second: grandma (2)_4
+  - first:
+      213: -4805918615725986933
+    second: grandma (2)_5
+  - first:
+      213: -7254000320408501242
+    second: grandma (2)_6
+  - first:
+      213: 2449493416149316708
+    second: grandma (2)_7
+  - first:
+      213: -8889331212408610833
+    second: grandma (2)_8
+  - first:
+      213: -8358943908001750309
+    second: grandma (2)_9
+  - first:
+      213: -5260696694507870855
+    second: grandma (2)_10
+  - first:
+      213: -1598703828964650169
+    second: grandma (2)_11
+  - first:
+      213: 2456897588505078883
+    second: grandma (2)_12
+  - first:
+      213: 7770357081349888771
+    second: grandma (2)_13
+  - first:
+      213: 6350388675052230887
+    second: grandma (2)_14
+  - first:
+      213: -9186644975247938784
+    second: grandma (2)_15
+  - first:
+      213: -1988580540670535850
+    second: grandma (2)_16
+  - first:
+      213: -9165613258281827058
+    second: grandma (2)_17
+  - first:
+      213: 3146538741117601107
+    second: grandma (2)_18
+  - first:
+      213: 6372814399851458115
+    second: grandma (2)_19
+  - first:
+      213: -3005461841169726800
+    second: grandma (2)_20
+  - first:
+      213: -1655634367390826252
+    second: grandma (2)_21
+  - first:
+      213: 5667770817460273970
+    second: grandma (2)_22
+  - first:
+      213: -1233245212068139811
+    second: grandma (2)_23
+  - first:
+      213: 8383467260198937872
+    second: grandma (2)_24
+  - first:
+      213: 7279322920787454749
+    second: grandma (2)_25
+  - first:
+      213: -4287249443117160701
+    second: grandma (2)_26
+  - first:
+      213: -6367272884971099939
+    second: grandma (2)_27
+  - first:
+      213: 8048927712895935438
+    second: grandma (2)_28
+  - first:
+      213: -4435157810319304792
+    second: grandma (2)_29
+  - first:
+      213: 5998358125189546548
+    second: grandma (2)_30
+  - first:
+      213: -8014618103140090679
+    second: grandma (2)_31
+  - first:
+      213: -5165763830708855831
+    second: grandma (2)_32
+  - first:
+      213: 158626298864070087
+    second: grandma (2)_33
+  - first:
+      213: -664325789779190578
+    second: grandma (2)_34
+  - first:
+      213: -111767702358400363
+    second: grandma (2)_35
+  - first:
+      213: 4699293447371350802
+    second: grandma (2)_36
+  - first:
+      213: -501347062924773373
+    second: grandma (2)_37
+  - first:
+      213: 8568735708664591840
+    second: grandma (2)_38
+  - first:
+      213: -6197960514788904109
+    second: grandma (2)_39
+  - first:
+      213: 8006505953891745034
+    second: grandma (2)_40
+  - first:
+      213: 593568969166758058
+    second: grandma (2)_41
+  - first:
+      213: -6971234578904155094
+    second: grandma (2)_42
+  - first:
+      213: 7593649770567769456
+    second: grandma (2)_43
+  - first:
+      213: 416495389603479536
+    second: grandma (2)_44
+  - first:
+      213: -941902435204776868
+    second: grandma (2)_45
+  - first:
+      213: -7449419004347071003
+    second: grandma (2)_46
+  - first:
+      213: -7127799622138984823
+    second: grandma (2)_47
+  - first:
+      213: -8506764543283081930
+    second: grandma (2)_48
+  - first:
+      213: -8695947683483227563
+    second: grandma (2)_49
+  - first:
+      213: -862148266435199803
+    second: grandma (2)_50
+  - first:
+      213: 5346575002603509068
+    second: grandma (2)_51
+  - first:
+      213: 4834422852306011343
+    second: grandma (2)_52
+  - first:
+      213: 6796312116554575403
+    second: grandma (2)_53
+  - first:
+      213: 7558216494184140371
+    second: grandma (2)_54
+  - first:
+      213: 7980085617957457099
+    second: grandma (2)_55
+  - first:
+      213: 4955487052738960810
+    second: grandma (2)_56
+  - first:
+      213: -3981073913620788309
+    second: grandma (2)_57
+  - first:
+      213: -8488793429371961474
+    second: grandma (2)_58
+  - first:
+      213: 2223130171905999732
+    second: grandma (2)_59
+  - first:
+      213: -237437031625290035
+    second: grandma (2)_60
+  - first:
+      213: -6219888073116116730
+    second: grandma (2)_61
+  - first:
+      213: -5969018919489814341
+    second: grandma (2)_62
+  - first:
+      213: -6524285628663995725
+    second: grandma (2)_63
+  - first:
+      213: -4553162205324413193
+    second: grandma (2)_64
+  - first:
+      213: 4123786801989891595
+    second: grandma (2)_65
+  - first:
+      213: -1086598603322229936
+    second: grandma (2)_66
+  - first:
+      213: -744837228846817751
+    second: grandma (2)_67
+  - first:
+      213: 3779631026413405207
+    second: grandma (2)_68
+  - first:
+      213: -5513131101304823754
+    second: grandma (2)_69
+  - first:
+      213: -7614710376835385276
+    second: grandma (2)_70
+  - first:
+      213: 769840725403930908
+    second: grandma (2)_71
+  - first:
+      213: -5513298767962485261
+    second: grandma (2)_72
+  - first:
+      213: -5179549844658520296
+    second: grandma (2)_73
+  - first:
+      213: -772961714097586732
+    second: grandma (2)_74
+  - first:
+      213: -8712353438212275299
+    second: grandma (2)_75
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: grandma (2)_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 3069
+        width: 388
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6044b75542d945b90800000000000000
+      internalID: -7254000320408501242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_8
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 3090
+        width: 291
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef97992c50c2a480800000000000000
+      internalID: -8889331212408610833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_9
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 3084
+        width: 237
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2e322adc01ffb80800000000000000
+      internalID: -8358943908001750309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_10
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 3088
+        width: 339
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97569cc8a304ef6b0800000000000000
+      internalID: -5260696694507870855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_11
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 3072
+        width: 379
+        height: 439
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 743518d765340d9e0800000000000000
+      internalID: -1598703828964650169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_13
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 3071
+        width: 411
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b1dcba89ad5db60800000000000000
+      internalID: 7770357081349888771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_23
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2491
+        width: 376
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc2abd7302a2eee0800000000000000
+      internalID: -1233245212068139811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_25
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 2508
+        width: 291
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b25e201a9550560800000000000000
+      internalID: 7279322920787454749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_26
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 2510
+        width: 237
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307a287a851a084c0800000000000000
+      internalID: -4287249443117160701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_27
+      rect:
+        serializedVersion: 2
+        x: 1418
+        y: 2506
+        width: 339
+        height: 436
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8225fdb07e2a7a0800000000000000
+      internalID: -6367272884971099939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_28
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 2495
+        width: 375
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3a5fd1c1983bf60800000000000000
+      internalID: 8048927712895935438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_31
+      rect:
+        serializedVersion: 2
+        x: 2377
+        y: 2486
+        width: 412
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc7be76c4b56c090800000000000000
+      internalID: -8014618103140090679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_33
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2468
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cde3d347cd833200800000000000000
+      internalID: 158626298864070087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_34
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 2459
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc9415c637d7c6f0800000000000000
+      internalID: -664325789779190578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_40
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1794
+        width: 354
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d74c9aeb2dc1f60800000000000000
+      internalID: 8006505953891745034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_42
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1798
+        width: 291
+        height: 423
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c7f7ee513314f90800000000000000
+      internalID: -6971234578904155094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_43
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1797
+        width: 246
+        height: 448
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d1b63cb30126960800000000000000
+      internalID: 7593649770567769456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_44
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1793
+        width: 335
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff37e3a950b7c500800000000000000
+      internalID: 416495389603479536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_45
+      rect:
+        serializedVersion: 2
+        x: 1807
+        y: 1786
+        width: 380
+        height: 435
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c3b80c9b0bde2f0800000000000000
+      internalID: -941902435204776868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_47
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 1805
+        width: 410
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9860e342208f41d90800000000000000
+      internalID: -7127799622138984823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_60
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1211
+        width: 348
+        height: 445
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce8379174474bcf0800000000000000
+      internalID: -237437031625290035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_61
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1216
+        width: 291
+        height: 425
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609993b70c48ea9a0800000000000000
+      internalID: -6219888073116116730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_62
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 1220
+        width: 237
+        height: 447
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0493efae8c92da0800000000000000
+      internalID: -5969018919489814341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_63
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1216
+        width: 339
+        height: 434
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2eb42b9c41575a0800000000000000
+      internalID: -6524285628663995725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_64
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1207
+        width: 379
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f677e2191befc0c0800000000000000
+      internalID: -4553162205324413193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_68
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 1221
+        width: 412
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7148a67a462f37430800000000000000
+      internalID: 3779631026413405207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_72
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 638
+        width: 263
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd4ff23bf3dc73b0800000000000000
+      internalID: -5513298767962485261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_73
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 638
+        width: 263
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ff2b4dbda8e18b0800000000000000
+      internalID: -5179549844658520296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_74
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 126
+        width: 280
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd7c369a63e545f0800000000000000
+      internalID: -772961714097586732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_75
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 122
+        width: 279
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9344bd35b0871780800000000000000
+      internalID: -8712353438212275299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grandma (2)_0
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 126
+        width: 280
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1088ae229428e6970800000000000000
+      internalID: 8750074376657471489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

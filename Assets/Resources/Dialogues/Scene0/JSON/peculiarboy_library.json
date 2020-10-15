@@ -1,0 +1,67 @@
+[{
+        "Conditional": "PECULIARBOY_INTERACTED"
+    },
+    {
+        "Player": "Hey, could I ask you a few questions?"
+    },
+    {
+        "Charles": "Sure, but keep it quick."
+    },
+    {
+        "?": [{
+                "1": [
+                    "What do you know about the murders that happened here?",
+                    {
+                        "Charles": "Don’t know, don’t really care much either."
+                    },
+                    {
+                        "Player": "You don’t care…"
+                    },
+                    {
+                        "Charles": "Eh, didn’t know ‘em too well."
+                    },
+                    {
+                        "EOD": "EOD"
+                    }
+                ]
+            },
+            {
+                "2": [
+                    "Why aren’t you playing?",
+                    {
+                        "Charles": "Do you see a fourth member? Who am I supposed to play?"
+                    },
+                    {
+                        "EOD": "EOD"
+                    }
+                ]
+            },
+            {
+                "3": [
+                    "You normally sit in the corner by yourself?",
+                    {
+                        "Charles": "What’s that supposed to mean?"
+                    },
+                    {
+                        "Player": "Nothing, just an observation."
+                    },
+                    {
+                        "Charles": "Well, I don’t really like anyone here. Just enjoy playing chess."
+                    },
+                    {
+                        "Player": "Not doing much playing though."
+                    },
+                    {
+                        "Charles": "…"
+                    },
+                    {
+                        "Charles": "Do you need anything else?"
+                    },
+                    {
+                        "EOD": "EOD"
+                    }
+                ]
+            }
+        ]
+    }
+]

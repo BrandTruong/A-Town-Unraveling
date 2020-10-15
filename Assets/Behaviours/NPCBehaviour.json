@@ -1,0 +1,13 @@
+{
+	"actions":
+	[
+		{
+		
+		},
+		{
+			"intervalNum" : 1,
+			"shorthandAction" : "w",
+			"waypointNum" : [0, -1, 1]
+		}
+	]
+}

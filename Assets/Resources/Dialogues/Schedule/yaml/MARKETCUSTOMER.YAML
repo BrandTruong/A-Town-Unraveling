@@ -1,0 +1,5 @@
+- ?: 
+    - 1:
+        - "0"
+        - NOCONDITION: "Scene0/JSON/marketcustomer"
+        - EOD: "EOD"

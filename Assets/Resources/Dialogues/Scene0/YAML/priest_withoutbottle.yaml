@@ -1,0 +1,12 @@
+- Priest: What brings you to this House of God, detective?
+- ?:
+    - 1:
+        - I need some holy water.
+        - Priest: And do you have a worthy container for the holy water?
+        - Player: I don’t…
+        - Priest: Then, unfortunately, I cannot give you some.
+        - EOD: EOD
+    - 2:
+        - Nothing.
+        - EOD: EOD
+

@@ -1,0 +1,911 @@
+fileFormatVersion: 2
+guid: 3e3c943e81a78ee4780f4388a4f1b7c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4657293317043711748
+    second: chess vampire_0
+  - first:
+      213: -2463700352625436320
+    second: chess vampire_1
+  - first:
+      213: 3182628706336538496
+    second: chess vampire_2
+  - first:
+      213: 8765580360068073327
+    second: chess vampire_3
+  - first:
+      213: -8978633060809558813
+    second: chess vampire_4
+  - first:
+      213: 362211802638355731
+    second: chess vampire_5
+  - first:
+      213: 8226910775245508464
+    second: chess vampire_6
+  - first:
+      213: 4219336070051809920
+    second: chess vampire_7
+  - first:
+      213: -159448576064420826
+    second: chess vampire_8
+  - first:
+      213: -2292527439587420598
+    second: chess vampire_9
+  - first:
+      213: -1889948475551497693
+    second: chess vampire_10
+  - first:
+      213: -8120919469626304523
+    second: chess vampire_11
+  - first:
+      213: 1038039856149948834
+    second: chess vampire_12
+  - first:
+      213: 5082949351419728250
+    second: chess vampire_13
+  - first:
+      213: -1236187821502087535
+    second: chess vampire_14
+  - first:
+      213: -1178803861970876081
+    second: chess vampire_15
+  - first:
+      213: -6083303100646323780
+    second: chess vampire_16
+  - first:
+      213: 3358652495508059015
+    second: chess vampire_17
+  - first:
+      213: 267907668175323752
+    second: chess vampire_18
+  - first:
+      213: 7009106283516503148
+    second: chess vampire_19
+  - first:
+      213: -779270844915434822
+    second: chess vampire_20
+  - first:
+      213: 3509199090862955983
+    second: chess vampire_21
+  - first:
+      213: -6688159307287681764
+    second: chess vampire_22
+  - first:
+      213: -2648137625443442829
+    second: chess vampire_23
+  - first:
+      213: 535027828203569879
+    second: chess vampire_24
+  - first:
+      213: 4093788868304317262
+    second: chess vampire_25
+  - first:
+      213: -6702459302088737070
+    second: chess vampire_26
+  - first:
+      213: -1734257388364232291
+    second: chess vampire_27
+  - first:
+      213: 2214935941283253764
+    second: chess vampire_28
+  - first:
+      213: -6738533639541967030
+    second: chess vampire_29
+  - first:
+      213: -6374793528070501871
+    second: chess vampire_30
+  - first:
+      213: -4744250518972174070
+    second: chess vampire_31
+  - first:
+      213: 7928358244062774421
+    second: chess vampire_32
+  - first:
+      213: 253502810785117488
+    second: chess vampire_33
+  - first:
+      213: 820267516027463844
+    second: chess vampire_34
+  - first:
+      213: 6275021583940792894
+    second: chess vampire_35
+  - first:
+      213: 4042417123246701690
+    second: chess vampire_36
+  - first:
+      213: 4787503589513904583
+    second: chess vampire_37
+  - first:
+      213: -3106325753486299132
+    second: chess vampire_38
+  - first:
+      213: 97956439284189104
+    second: chess vampire_39
+  - first:
+      213: -6747226378113520405
+    second: chess vampire_40
+  - first:
+      213: -7640861237988250991
+    second: chess vampire_41
+  - first:
+      213: -8039853033649848715
+    second: chess vampire_42
+  - first:
+      213: 6973292530241412182
+    second: chess vampire_43
+  - first:
+      213: 48490295746179662
+    second: chess vampire_44
+  - first:
+      213: 7256809327584899941
+    second: chess vampire_45
+  - first:
+      213: -6656351016284672679
+    second: chess vampire_46
+  - first:
+      213: -6812650909350726127
+    second: chess vampire_47
+  - first:
+      213: 8847607425130682955
+    second: chess vampire_48
+  - first:
+      213: 4840525713616929133
+    second: chess vampire_49
+  - first:
+      213: 392361605890685041
+    second: chess vampire_50
+  - first:
+      213: -8990525265850677479
+    second: chess vampire_51
+  - first:
+      213: -2433472533707321332
+    second: chess vampire_52
+  - first:
+      213: -896459117111193940
+    second: chess vampire_53
+  - first:
+      213: -2833101420966290481
+    second: chess vampire_54
+  - first:
+      213: 2744659676001020820
+    second: chess vampire_55
+  - first:
+      213: 7883001456415985501
+    second: chess vampire_56
+  - first:
+      213: -6353550093307497721
+    second: chess vampire_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: chess vampire_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3453
+        width: 369
+        height: 530
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d86b527b5d60500800000000000000
+      internalID: 362211802638355731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_6
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 3452
+        width: 285
+        height: 519
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f875513cbdb2270800000000000000
+      internalID: 8226910775245508464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_7
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 3450
+        width: 324
+        height: 488
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a4e6bfcc71e8a30800000000000000
+      internalID: 4219336070051809920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_8
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 3450
+        width: 423
+        height: 461
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6240db76d5689cdf0800000000000000
+      internalID: -159448576064420826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_9
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 3452
+        width: 465
+        height: 372
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a465e85a07e4f20e0800000000000000
+      internalID: -2292527439587420598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_10
+      rect:
+        serializedVersion: 2
+        x: 2319
+        y: 3430
+        width: 452
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32246f6ffdd85c5e0800000000000000
+      internalID: -1889948475551497693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_17
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2806
+        width: 371
+        height: 531
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783bcb656a45c9e20800000000000000
+      internalID: 3358652495508059015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_18
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2804
+        width: 285
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8628132da9cc7b300800000000000000
+      internalID: 267907668175323752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_19
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 2804
+        width: 324
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64a5fd6709554160800000000000000
+      internalID: 7009106283516503148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_20
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 2810
+        width: 423
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba3ff89b497f25f0800000000000000
+      internalID: -779270844915434822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_21
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 2809
+        width: 463
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd92090bfd23b030800000000000000
+      internalID: 3509199090862955983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_22
+      rect:
+        serializedVersion: 2
+        x: 2317
+        y: 2789
+        width: 452
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1525ef9b82ee23a0800000000000000
+      internalID: -6688159307287681764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1980
+        width: 311
+        height: 543
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d990471081eaee7e0800000000000000
+      internalID: -1734257388364232291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_28
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1990
+        width: 285
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40e0f6cd0880dbe10800000000000000
+      internalID: 2214935941283253764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_29
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1990
+        width: 324
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47b41c6b5beb72a0800000000000000
+      internalID: -6738533639541967030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_30
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1990
+        width: 423
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a06e2bf0f2887a0800000000000000
+      internalID: -6374793528070501871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_33
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 1990
+        width: 463
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035f86a967f948300800000000000000
+      internalID: 253502810785117488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_34
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1990
+        width: 452
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8eb99b5fc226b00800000000000000
+      internalID: 820267516027463844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_41
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1344
+        width: 327
+        height: 548
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19aa8a3ef2536f590800000000000000
+      internalID: -7640861237988250991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_43
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1348
+        width: 285
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c9ce33c9c16c060800000000000000
+      internalID: 6973292530241412182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_44
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1346
+        width: 324
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e423105caa54ca000800000000000000
+      internalID: 48490295746179662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_45
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1346
+        width: 423
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563707d92ad55b460800000000000000
+      internalID: 7256809327584899941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_47
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 1348
+        width: 463
+        height: 371
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1167869c71a9471a0800000000000000
+      internalID: -6812650909350726127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_48
+      rect:
+        serializedVersion: 2
+        x: 2315
+        y: 1346
+        width: 452
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ad507931409ca70800000000000000
+      internalID: 8847607425130682955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_49
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 650
+        width: 348
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6108468d700d2340800000000000000
+      internalID: 4840525713616929133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_51
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 652
+        width: 354
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917cbc097ec3b3380800000000000000
+      internalID: -8990525265850677479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_54
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 56
+        width: 346
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb56ae944dcea8d0800000000000000
+      internalID: -2833101420966290481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_57
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 55
+        width: 347
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703b1c94ad7a3d7a0800000000000000
+      internalID: -6353550093307497721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: chess vampire_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 56
+        width: 346
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf01fce4768fd5fb0800000000000000
+      internalID: -4657293317043711748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

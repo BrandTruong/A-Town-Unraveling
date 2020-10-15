@@ -1,0 +1,31 @@
+[
+   {
+      "?": [
+         {
+            "1": [
+               "0",
+               {
+                  "NOCONDITION": "Scene0/JSON/thief_police_before"
+               },
+               {
+                  "THIEF_INTERACTED": "Scene0/JSON/thief_police_after"
+               },
+               {
+                  "EOD": "EOD"
+               }
+            ]
+         },
+         {
+            "2": [
+               "24",
+               {
+                  "NOCONDITION": "Scene0/JSON/thief_bar"
+               },
+               {
+                  "EOD": "EOD"
+               }
+            ]
+         }
+      ]
+   }
+]

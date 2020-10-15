@@ -1,0 +1,20 @@
+[
+   {
+      "Spice Vendor": "Hello, sir. Would you be interested in purchasing some spices?"
+   },
+   {
+      "Player": "Just browsing."
+   },
+   {
+      "Spice Vendor": "I only sell the finest of spices. I guarantee that they will enrich any meal. Did you know that spices can even enhance the flavor of alcoholic drinks?"
+   },
+   {
+      "Spice Vendor": "I myself have been frequenting the bar every night since last week, and can prove the validity of that fact. I always encourage the support of local businesses. Are you sure you are not interested in my wares?"
+   },
+   {
+      "Player": "No thank you."
+   },
+   {
+      "EOD": "EOD"
+   }
+]

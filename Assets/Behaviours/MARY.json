@@ -1,0 +1,291 @@
+{
+    "actions": [{
+            "intervalNum": 0,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 1,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 2,
+            "shorthandAction": "w",
+            "waypointNum": [0, -1, 1, -1, 2],
+            "activeFlag": true
+        },
+        {
+            "intervalNum": 3,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 4,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 5,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 6,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 7,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 8,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 9,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 10,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 11,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 12,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 13,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 14,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 15,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 16,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 17,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 18,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 19,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 20,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 21,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 22,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 23,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": true
+        },
+        {
+            "intervalNum": 24,
+            "shorthandAction": "w",
+            "waypointNum": [3, -1, 4, -1, 5, -1],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 25,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 26,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 27,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 28,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 29,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 30,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 31,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 32,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 33,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 34,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 35,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 36,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 37,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 38,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 39,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 40,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 41,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 42,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 43,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 44,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 45,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 46,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        },
+        {
+            "intervalNum": 47,
+            "shorthandAction": "i",
+            "waypointNum": [],
+            "activeFlag": false
+        }
+    ]
+}

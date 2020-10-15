@@ -1,0 +1,36 @@
+[{
+    "?": [{
+            "1": [
+                "0",
+                {
+                    "NOCONDITION": "Scene0/JSON/policeman_6"
+                },
+                {
+                    "EOD": "EOD"
+                }
+            ]
+        },
+        {
+            "2": [
+                "14",
+                {
+                    "NOCONDITION": "Scene0/JSON/policeman_1"
+                },
+                {
+                    "EOD": "EOD"
+                }
+            ]
+        },
+        {
+            "3": [
+                "20",
+                {
+                    "NOCONDITION": "Scene0/JSON/policeman_4"
+                },
+                {
+                    "EOD": "EOD"
+                }
+            ]
+        }
+    ]
+}]

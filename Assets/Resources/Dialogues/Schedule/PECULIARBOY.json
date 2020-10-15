@@ -1,0 +1,42 @@
+[
+   {
+      "?": [
+         {
+            "1": [
+               "0",
+               {
+                  "NOCONDITION": "Scene0/JSON/peculiarboy_farmers"
+               },
+               {
+                  "EOD": "EOD"
+               }
+            ]
+         },
+         {
+            "2": [
+               "16",
+               {
+                  "NOCONDITION": "Scene0/JSON/peculiarboy_library"
+               },
+               {
+                  "PECULIARBOY_INTERACTED": "Scene0/JSON/peculiarboy_librarydone"
+               },
+               {
+                  "EOD": "EOD"
+               }
+            ]
+         },
+         {
+            "3": [
+               "26",
+               {
+                  "NOCONDITION": "Scene0/JSON/peculiarboy_libraryquip"
+               },
+               {
+                  "EOD": "EOD"
+               }
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,28 @@
+[
+   {
+      "Priest": "What brings you to this House of God, detective?"
+   },
+   {
+      "?": [
+         {
+            "1": [
+               "I need some holy water.",
+               {
+                  "Priest": "I already have spared you some, detective. I cannot give any more."
+               },
+               {
+                  "EOD": "EOD"
+               }
+            ]
+         },
+         {
+            "2": [
+               "Nothing.",
+               {
+                  "EOD": "EOD"
+               }
+            ]
+         }
+      ]
+   }
+]

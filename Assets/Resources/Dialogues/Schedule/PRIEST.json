@@ -1,0 +1,23 @@
+[
+   {
+      "?": [
+         {
+            "1": [
+               "0",
+               {
+                  "NOCONDITION": "Scene0/JSON/priest_withoutbottle"
+               },
+               {
+                  "PRIEST_HAVE_BOTTLE": "priest_withbottle"
+               },
+               {
+                  "PRIEST_HAVE_HOLYWATER": "priest_withholywater"
+               },
+               {
+                  "EOD": "EOD"
+               }
+            ]
+         }
+      ]
+   }
+]

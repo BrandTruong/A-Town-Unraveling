@@ -1,0 +1,78 @@
+[{
+        "Player": "Hello Mary, your parents are very worried about you."
+    },
+    {
+        "Mary": "That’s a lie! They don’t care about me!"
+    },
+    {
+        "Player": "Why would you think that?"
+    },
+    {
+        "Mary": "They never listen to me! I told them Grandma is a VAMPIRE and they laughed at me…"
+    },
+    {
+        "?": [{
+                "1": [
+                    "Why would you think your Grandma is a vampire?",
+                    {
+                        "Mary": "I saw her drink blood!"
+                    },
+                    {
+                        "Player": "You saw her drink blood?"
+                    },
+                    {
+                        "Mary": "Well, she said it was cranberry juice. But I tried it when she wasn’t looking and it tasted awful."
+                    },
+                    {
+                        "Player": "What did it taste like?"
+                    },
+                    {
+                        "Mary": "I don’t know, just awful."
+                    },
+                    {
+                        "EOD": "EOD"
+                    }
+                ]
+            },
+            {
+                "2": [
+                    "How many times have you skipped school?",
+                    {
+                        "Mary": "I only skip school when Granny comes by, and she doesn’t visit often."
+                    },
+                    {
+                        "EOD": "EOD"
+                    }
+                ]
+            },
+            {
+                "3": [
+                    "Why are you here in the church?",
+                    {
+                        "Mary": "My teacher read us a story about vampires in class and they said that vampires were scared of cru-see-feces."
+                    },
+                    {
+                        "Player": "Do you mean crucifixes?"
+                    },
+                    {
+                        "Mary": "Yeah, those!"
+                    },
+                    {
+                        "EOD": "EOD"
+                    }
+                ]
+            },
+            {
+                "4": [
+                    "Are you sure you won’t consider going home?",
+                    {
+                        "Mary": "I’ll go home later, I just don’t want to be around Granny."
+                    },
+                    {
+                        "EOD": "EOD"
+                    }
+                ]
+            }
+        ]
+    }
+]

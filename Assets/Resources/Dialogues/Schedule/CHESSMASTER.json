@@ -1,0 +1,34 @@
+[
+   {
+      "?": [
+         {
+            "1": [
+               "16",
+               {
+                  "NOCONDITION": "Scene0/JSON/chessmaster_library_2"
+               },
+               {
+                  "CHESSMASTER_INTERACTED_AFTERNOON": "Scene0/JSON/chessmaster_library_2after"
+               },
+               {
+                  "EOD": "EOD"
+               }
+            ]
+         },
+         {
+            "2": [
+               "26",
+               {
+                  "NOCONDITION": "Scene0/JSON/chessmaster_library_7"
+               },
+               {
+                  "CHESSMASTER_INTERACTED_EVENING": "Scene0/JSON/chessmaster_library_7after"
+               },
+               {
+                  "EOD": "EOD"
+               }
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,50 @@
+[{
+        "Librarian": "What can I do for you today detective?"
+    },
+    {
+        "?": [{
+                "1": [
+                    "What can you tell me about the town?",
+                    {
+                        "Librarian": "Well, it’s a quiet town. Not much really happens here except recently."
+                    },
+                    {
+                        "Librarian": "You’ve seen the news. The murders and such. It’s a real Tragedy."
+                    },
+                    {
+                        "EOD": "EOD"
+                    }
+                ]
+            },
+            {
+                "2": [
+                    "How have there been so many killings linked to the library?",
+                    {
+                        "Librarian": "The library has many events ya’ see, and I like to let those events go a little late."
+                    },
+                    {
+                        "Librarian": "So, I give a couple people keys to the library so they can lock up after they are done."
+                    },
+                    {
+                        "Player": "Don’t you think that is dangerous? The murderer could be using their key to get in and kill people!"
+                    },
+                    {
+                        "Librarian": "I have cut down on the number of people I have given a key to. Now only the heads of different groups have keys."
+                    },
+                    {
+                        "Librarian": "Don’t tell anyone, but I was told by the police that they didn’t think the murderer left the library through any exit. They must have used the secret tunnel in the basement."
+                    },
+                    {
+                        "Player": "Where does this escape passage lead?"
+                    },
+                    {
+                        "Librarian": "I’ve never gone through it myself, but I think it leads to somewhere near the church."
+                    },
+                    {
+                        "EOD": "EOD"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,6 @@
+- ?: 
+  - 1:
+      - "0"
+      - NOCONDITION: "Scene0/JSON/mary_church_before"
+      - MARY_TALKED_WITH_PARENTS: "Scene0/JSON/mary_church_after"
+      - EOD: "EOD"

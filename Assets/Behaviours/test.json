@@ -1,0 +1,17 @@
+{
+	"actions":
+	[
+		{
+			"intervalNum" : 17,
+			"shorthandAction" : "i",
+			"waypointNum" : [],
+			"activeFlag" : true
+		},
+		{
+			"intervalNum" : 17,
+			"shorthandAction" : "i",
+			"waypointNum" : [],
+			"activeFlag" : true
+		}
+	]
+}

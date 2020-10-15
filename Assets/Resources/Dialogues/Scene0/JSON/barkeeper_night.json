@@ -1,0 +1,14 @@
+[
+   {
+      "Barkeeper": "You want anything?"
+   },
+   {
+      "Player": "No thank you."
+   },
+   {
+      "Barkeeper": "Suit yourself. Remember, last call is at 3."
+   },
+   {
+      "EOD": "EOD"
+   }
+]

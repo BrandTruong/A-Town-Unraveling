@@ -1,0 +1,20 @@
+[
+   {
+      "?": [
+         {
+            "1": [
+               "0",
+               {
+                  "NOCONDITION": "Scene0/JSON/granny_livingroom"
+               },
+               {
+                  "GRANNY_PLAYER_CAUGHT": "Scene0/JSON/granny_livingroom_caught"
+               },
+               {
+                  "EOD": "EOD"
+               }
+            ]
+         }
+      ]
+   }
+]

@@ -1,0 +1,686 @@
+fileFormatVersion: 2
+guid: f61f71b3718c05645be516c6cdc282b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3633025164411163363
+    second: all characters who just stand_0
+  - first:
+      213: 4680749214573438978
+    second: all characters who just stand_1
+  - first:
+      213: -8882531404534279881
+    second: all characters who just stand_2
+  - first:
+      213: -8715918198273765291
+    second: all characters who just stand_3
+  - first:
+      213: -2184807980464882778
+    second: all characters who just stand_4
+  - first:
+      213: 907652784332260783
+    second: all characters who just stand_5
+  - first:
+      213: 2343193090195616869
+    second: all characters who just stand_6
+  - first:
+      213: 5168260956424551831
+    second: all characters who just stand_7
+  - first:
+      213: -2157764245047605954
+    second: all characters who just stand_8
+  - first:
+      213: 7057376064065915606
+    second: all characters who just stand_9
+  - first:
+      213: 3858808539271694519
+    second: all characters who just stand_10
+  - first:
+      213: 8714179911547943932
+    second: all characters who just stand_11
+  - first:
+      213: 4285609940379006686
+    second: all characters who just stand_12
+  - first:
+      213: 2230042133526210360
+    second: all characters who just stand_13
+  - first:
+      213: -5016254503050429683
+    second: all characters who just stand_14
+  - first:
+      213: -425602581056507062
+    second: all characters who just stand_15
+  - first:
+      213: 8245596203253967057
+    second: all characters who just stand_16
+  - first:
+      213: -1038317185643633363
+    second: all characters who just stand_17
+  - first:
+      213: 8305915286799410848
+    second: all characters who just stand_18
+  - first:
+      213: -5041407707669353720
+    second: all characters who just stand_19
+  - first:
+      213: -7397459780969795383
+    second: all characters who just stand_20
+  - first:
+      213: 7128274005180625901
+    second: all characters who just stand_21
+  - first:
+      213: 5104111462122575435
+    second: all characters who just stand_22
+  - first:
+      213: -5368720957260082177
+    second: all characters who just stand_23
+  - first:
+      213: -1092043965643248282
+    second: all characters who just stand_24
+  - first:
+      213: 773591991741823067
+    second: all characters who just stand_25
+  - first:
+      213: 5085725220454836531
+    second: all characters who just stand_26
+  - first:
+      213: -3683487013008223654
+    second: all characters who just stand_27
+  - first:
+      213: 8647581648748856290
+    second: all characters who just stand_28
+  - first:
+      213: -2426960857219410635
+    second: all characters who just stand_29
+  - first:
+      213: -9056951376200990236
+    second: all characters who just stand_30
+  - first:
+      213: -8066630673399152028
+    second: all characters who just stand_31
+  - first:
+      213: -603629074701087855
+    second: all characters who just stand_32
+  - first:
+      213: -3793812641192652112
+    second: all characters who just stand_33
+  - first:
+      213: -3120886612041031726
+    second: all characters who just stand_34
+  - first:
+      213: 8680595548949424889
+    second: all characters who just stand_35
+  - first:
+      213: -6692479078676629311
+    second: all characters who just stand_36
+  - first:
+      213: 9158806754046944659
+    second: all characters who just stand_37
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: all characters who just stand_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 699
+        width: 317
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da4ef08326d0f160800000000000000
+      internalID: 7057376064065915606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all characters who just stand_10
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 699
+        width: 316
+        height: 457
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8888febed3d8530800000000000000
+      internalID: 3858808539271694519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all characters who just stand_11
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 701
+        width: 239
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbf8a8b57cfee870800000000000000
+      internalID: 8714179911547943932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all characters who just stand_12
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 699
+        width: 240
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed67c2ed88b897b30800000000000000
+      internalID: 4285609940379006686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all characters who just stand_13
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 705
+        width: 296
+        height: 517
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837ebf25183b2fe10800000000000000
+      internalID: 2230042133526210360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all characters who just stand_14
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 705
+        width: 296
+        height: 517
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0bb9b25b1fa26ab0800000000000000
+      internalID: -5016254503050429683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all characters who just stand_15
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 701
+        width: 293
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4333ac15b4f71af0800000000000000
+      internalID: -425602581056507062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all characters who just stand_16
+      rect:
+        serializedVersion: 2
+        x: 2797
+        y: 701
+        width: 294
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d823405f0e3e6270800000000000000
+      internalID: 8245596203253967057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all characters who just stand_17
+      rect:
+        serializedVersion: 2
+        x: 3160
+        y: 701
+        width: 315
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25278955082791f0800000000000000
+      internalID: -1038317185643633363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all characters who just stand_18
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 701
+        width: 317
+        height: 521
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a66a2c52f9844370800000000000000
+      internalID: 8305915286799410848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all characters who just stand_27
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 56
+        width: 280
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5251eed310a1ecc0800000000000000
+      internalID: -3683487013008223654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all characters who just stand_28
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 56
+        width: 279
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e3ccd351b1620870800000000000000
+      internalID: 8647581648748856290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all characters who just stand_29
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 56
+        width: 303
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 535d8ad75f3b15ed0800000000000000
+      internalID: -2426960857219410635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all characters who just stand_30
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 54
+        width: 294
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e10e8985be3f4280800000000000000
+      internalID: -9056951376200990236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all characters who just stand_31
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 56
+        width: 315
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46206c134229d0090800000000000000
+      internalID: -8066630673399152028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all characters who just stand_32
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 54
+        width: 308
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b08520e8a7f97f0800000000000000
+      internalID: -603629074701087855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all characters who just stand_34
+      rect:
+        serializedVersion: 2
+        x: 2415
+        y: 56
+        width: 288
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df9509592260b4d0800000000000000
+      internalID: -3120886612041031726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all characters who just stand_35
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 54
+        width: 288
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faa7f5f8aba77870800000000000000
+      internalID: 8680595548949424889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all characters who just stand_36
+      rect:
+        serializedVersion: 2
+        x: 3158
+        y: 54
+        width: 317
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8feb87cb98f13a0800000000000000
+      internalID: -6692479078676629311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: all characters who just stand_37
+      rect:
+        serializedVersion: 2
+        x: 3548
+        y: 54
+        width: 317
+        height: 520
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395aa65a73e9a1f70800000000000000
+      internalID: 9158806754046944659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

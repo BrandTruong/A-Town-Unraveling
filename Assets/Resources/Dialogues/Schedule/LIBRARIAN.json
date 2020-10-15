@@ -1,0 +1,26 @@
+[
+   {
+      "?": [
+         {
+            "1": [
+               "0",
+               {
+                  "NOCONDITION": "Scene0/JSON/librarian_not_interacted"
+               },
+               {
+                  "PECULIARBOY_INTERACTED": "Scene0/JSON/librarian_interacted"
+               },
+               {
+                  "CHESSMASTER_INTERACTED_AFTERNOON": "Scene0/JSON/librarian_interacted"
+               },
+               {
+                  "CHESSMASTER_INTERACTED_EVENING": "Scene0/JSON/librarian_interacted"
+               },
+               {
+                  "EOD": "EOD"
+               }
+            ]
+         }
+      ]
+   }
+]

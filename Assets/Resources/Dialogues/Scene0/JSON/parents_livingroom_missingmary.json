@@ -1,0 +1,84 @@
+[{
+        "Conditional": "MARY_TALKED_WITH_PARENTS"
+    },
+    {
+        "Mother": "What is this about? Our child is missing?"
+    },
+    {
+        "Player": "Well the teacher said she didn’t show up to school today? Do you know why that would be?"
+    },
+    {
+        "Father": "My mother just arrived from out of town and I think our daughter is just a little scared of her."
+    },
+    {
+        "Player": "Alright, well do you mind if I ask you a few more questions?"
+    },
+    {
+        "Father": "Sure."
+    },
+    {
+        "?": [{
+                "1": [
+                    "How old is your daughter?",
+                    {
+                        "Father": "She is… uh…"
+                    },
+                    {
+                        "Mother": "She’s 6, honey. You should know this."
+                    },
+                    {
+                        "Father": "I knew that!"
+                    },
+                    {
+                        "EOD": "EOD"
+                    }
+                ]
+            },
+            {
+                "2": [
+                    "Where can your daughter usually be found?",
+                    {
+                        "Mother": "One would think she would be at school. But no, her favorite haunt seems to be the church. Lord knows why."
+                    },
+                    {
+                        "EOD": "EOD"
+                    }
+                ]
+            },
+            {
+                "3": [
+                    "Has your daughter ever done something like this before?",
+                    {
+                        "Mother": "It happens all the time. There’s no need to worry."
+                    },
+                    {
+                        "Father": "It does?"
+                    },
+                    {
+                        "Mother": "She always returns home before the end of the day."
+                    },
+                    {
+                        "Player": "Do you know why your daughter does this?"
+                    },
+                    {
+                        "Mother": "Usually, it’s because she’s scared of something. She really needs to grow up..."
+                    },
+                    {
+                        "EOD": "EOD"
+                    }
+                ]
+            },
+            {
+                "4": [
+                    "Thanks for your time.",
+                    {
+                        "Mother": "Thank you for stopping by."
+                    },
+                    {
+                        "EOD": "EOD"
+                    }
+                ]
+            }
+        ]
+    }
+]

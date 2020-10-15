@@ -1,0 +1,6 @@
+- ?: 
+  - 1:
+      - "0"
+      - NOCONDITION: "Scene0/JSON/teacher_before"
+      - TEACHER_INTERACTED: "Scene0/JSON/teacher_after"
+      - EOD: "EOD"

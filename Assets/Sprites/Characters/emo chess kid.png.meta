@@ -1,0 +1,1265 @@
+fileFormatVersion: 2
+guid: 014400a62e2d4a84f8fbcc4513d27237
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2108400087701721489
+    second: emo chess kid_0
+  - first:
+      213: 2183665545611436693
+    second: emo chess kid_1
+  - first:
+      213: -1446604755707177621
+    second: emo chess kid_2
+  - first:
+      213: -5573405458453375218
+    second: emo chess kid_3
+  - first:
+      213: 4659382476509122972
+    second: emo chess kid_4
+  - first:
+      213: 9113547596725853902
+    second: emo chess kid_5
+  - first:
+      213: 6313027435682635071
+    second: emo chess kid_6
+  - first:
+      213: 5638810689745326561
+    second: emo chess kid_7
+  - first:
+      213: 5078980372232243849
+    second: emo chess kid_8
+  - first:
+      213: 1311428475353755827
+    second: emo chess kid_9
+  - first:
+      213: -4939946103008549019
+    second: emo chess kid_10
+  - first:
+      213: 5738070747826042332
+    second: emo chess kid_11
+  - first:
+      213: -4577410955178685700
+    second: emo chess kid_12
+  - first:
+      213: 5924154320382619968
+    second: emo chess kid_13
+  - first:
+      213: 8040714968492942846
+    second: emo chess kid_14
+  - first:
+      213: 8408009768545393499
+    second: emo chess kid_15
+  - first:
+      213: -1632093607597858760
+    second: emo chess kid_16
+  - first:
+      213: 5287197636830036200
+    second: emo chess kid_17
+  - first:
+      213: -6950237082264371749
+    second: emo chess kid_18
+  - first:
+      213: 9134759591240243329
+    second: emo chess kid_19
+  - first:
+      213: -1051599986023151504
+    second: emo chess kid_20
+  - first:
+      213: -6306326677745461343
+    second: emo chess kid_21
+  - first:
+      213: -8453717307479886158
+    second: emo chess kid_22
+  - first:
+      213: 7773285812181407585
+    second: emo chess kid_23
+  - first:
+      213: 1674379283928314334
+    second: emo chess kid_24
+  - first:
+      213: 4169156434949306652
+    second: emo chess kid_25
+  - first:
+      213: 4705680628666347692
+    second: emo chess kid_26
+  - first:
+      213: -4721578113958009095
+    second: emo chess kid_27
+  - first:
+      213: 2485846622443330908
+    second: emo chess kid_28
+  - first:
+      213: 554045550370257736
+    second: emo chess kid_29
+  - first:
+      213: -5468568090883577767
+    second: emo chess kid_30
+  - first:
+      213: -7887270137126044804
+    second: emo chess kid_31
+  - first:
+      213: -2348597517968762514
+    second: emo chess kid_32
+  - first:
+      213: -8691638999195056619
+    second: emo chess kid_33
+  - first:
+      213: 2465749675345397604
+    second: emo chess kid_34
+  - first:
+      213: 2934495103732124680
+    second: emo chess kid_35
+  - first:
+      213: -8207382316099337956
+    second: emo chess kid_36
+  - first:
+      213: 5963851781722249487
+    second: emo chess kid_37
+  - first:
+      213: 5386603678766892263
+    second: emo chess kid_38
+  - first:
+      213: 8626456381671821357
+    second: emo chess kid_39
+  - first:
+      213: 8703566155177194861
+    second: emo chess kid_40
+  - first:
+      213: 3975013070994955903
+    second: emo chess kid_41
+  - first:
+      213: -1130408745029186686
+    second: emo chess kid_42
+  - first:
+      213: -6549489706330713981
+    second: emo chess kid_43
+  - first:
+      213: -7067975768318913178
+    second: emo chess kid_44
+  - first:
+      213: 2011149659161816726
+    second: emo chess kid_45
+  - first:
+      213: -1757747380127858986
+    second: emo chess kid_46
+  - first:
+      213: 5733588794312542404
+    second: emo chess kid_47
+  - first:
+      213: -418854362161158523
+    second: emo chess kid_48
+  - first:
+      213: 4607723833140394659
+    second: emo chess kid_49
+  - first:
+      213: -1260508608150834724
+    second: emo chess kid_50
+  - first:
+      213: -14479863748345308
+    second: emo chess kid_51
+  - first:
+      213: 320631238185227411
+    second: emo chess kid_52
+  - first:
+      213: -4247357076935211860
+    second: emo chess kid_53
+  - first:
+      213: -5944913410280919484
+    second: emo chess kid_54
+  - first:
+      213: -2837865135601357929
+    second: emo chess kid_55
+  - first:
+      213: 2746076431186958038
+    second: emo chess kid_56
+  - first:
+      213: 6791984906136692223
+    second: emo chess kid_57
+  - first:
+      213: -2450389128907703092
+    second: emo chess kid_58
+  - first:
+      213: 3563041162883046030
+    second: emo chess kid_59
+  - first:
+      213: 4541196976067541235
+    second: emo chess kid_60
+  - first:
+      213: -49949635736867480
+    second: emo chess kid_61
+  - first:
+      213: 2282604195888765477
+    second: emo chess kid_62
+  - first:
+      213: -455934377517636163
+    second: emo chess kid_63
+  - first:
+      213: 4712061469156067767
+    second: emo chess kid_64
+  - first:
+      213: -1974600075076162422
+    second: emo chess kid_65
+  - first:
+      213: -1001240516299619591
+    second: emo chess kid_66
+  - first:
+      213: 6721790629109224318
+    second: emo chess kid_67
+  - first:
+      213: -8553593905061432895
+    second: emo chess kid_68
+  - first:
+      213: 4111290811128182197
+    second: emo chess kid_69
+  - first:
+      213: 6661953006285434233
+    second: emo chess kid_70
+  - first:
+      213: -604987981134286284
+    second: emo chess kid_71
+  - first:
+      213: 942934669812666315
+    second: emo chess kid_72
+  - first:
+      213: 1229404320411422656
+    second: emo chess kid_73
+  - first:
+      213: -7117283012949595270
+    second: emo chess kid_74
+  - first:
+      213: -6888696055697452928
+    second: emo chess kid_75
+  - first:
+      213: -8210533101021482150
+    second: emo chess kid_76
+  - first:
+      213: -711196275965230103
+    second: emo chess kid_77
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: emo chess kid_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 4352
+        width: 359
+        height: 582
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece957ae043d97e70800000000000000
+      internalID: 9113547596725853902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_6
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 4357
+        width: 287
+        height: 553
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d982141016c9750800000000000000
+      internalID: 6313027435682635071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_7
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 4359
+        width: 311
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e112f55274114e40800000000000000
+      internalID: 5638810689745326561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_8
+      rect:
+        serializedVersion: 2
+        x: 1383
+        y: 4357
+        width: 403
+        height: 496
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a851c2db92c7640800000000000000
+      internalID: 5078980372232243849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_10
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 4347
+        width: 486
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567a9983139c17bb0800000000000000
+      internalID: -4939946103008549019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_11
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 4342
+        width: 483
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd53b3c81f8b1af40800000000000000
+      internalID: 5738070747826042332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 3581
+        width: 379
+        height: 593
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd72e6923ccb8f90800000000000000
+      internalID: -6950237082264371749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_20
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 3584
+        width: 286
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078c8436267f761f0800000000000000
+      internalID: -1051599986023151504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_21
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 3584
+        width: 309
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a799678c4d6b78a0800000000000000
+      internalID: -6306326677745461343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_22
+      rect:
+        serializedVersion: 2
+        x: 1413
+        y: 3584
+        width: 403
+        height: 496
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6f61806ec5eaa80800000000000000
+      internalID: -8453717307479886158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_23
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 3584
+        width: 486
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16718a4f24240eb60800000000000000
+      internalID: 7773285812181407585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_24
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 3566
+        width: 483
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1f1d566179c3710800000000000000
+      internalID: 1674379283928314334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_30
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 2758
+        width: 361
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95829d88b4ebb14b0800000000000000
+      internalID: -5468568090883577767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_31
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2758
+        width: 287
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7b3e0d4999ca8290800000000000000
+      internalID: -7887270137126044804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_32
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 2766
+        width: 310
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e699b15300b186fd0800000000000000
+      internalID: -2348597517968762514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_33
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 2766
+        width: 403
+        height: 496
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5160c096168116780800000000000000
+      internalID: -8691638999195056619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_35
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 2756
+        width: 488
+        height: 415
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c831dcfbb69b820800000000000000
+      internalID: 2934495103732124680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_36
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 2766
+        width: 483
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c118311a445891e80800000000000000
+      internalID: -8207382316099337956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_43
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1988
+        width: 349
+        height: 584
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380941210d98b15a0800000000000000
+      internalID: -6549489706330713981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_45
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 1990
+        width: 286
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69eec70a5f909eb10800000000000000
+      internalID: 2011149659161816726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_46
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 1990
+        width: 309
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6defa9a121a3b97e0800000000000000
+      internalID: -1757747380127858986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_47
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1990
+        width: 403
+        height: 496
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8c82d61acc19f40800000000000000
+      internalID: 5733588794312542404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_49
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1990
+        width: 486
+        height: 416
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa3f69d96ce1ff30800000000000000
+      internalID: 4607723833140394659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_50
+      rect:
+        serializedVersion: 2
+        x: 2480
+        y: 1990
+        width: 483
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1f8de6916c18ee0800000000000000
+      internalID: -1260508608150834724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_51
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1346
+        width: 297
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42242e004ae8ccff0800000000000000
+      internalID: -14479863748345308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_52
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1346
+        width: 292
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3949cef896c137400800000000000000
+      internalID: 320631238185227411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_53
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1346
+        width: 292
+        height: 541
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca40903fd3b5e05c0800000000000000
+      internalID: -4247357076935211860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_54
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 1346
+        width: 294
+        height: 541
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44eefb730cc6f7da0800000000000000
+      internalID: -5944913410280919484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_55
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1348
+        width: 292
+        height: 539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79be300e1b0ed98d0800000000000000
+      internalID: -2837865135601357929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_56
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 1346
+        width: 292
+        height: 543
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d698fef6f50c1620800000000000000
+      internalID: 2746076431186958038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_57
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 1346
+        width: 292
+        height: 541
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5a712694af14e50800000000000000
+      internalID: 6791984906136692223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_58
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1346
+        width: 292
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc3af9e1187efdd0800000000000000
+      internalID: -2450389128907703092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_67
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 633
+        width: 297
+        height: 534
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73da9ea6f8984d50800000000000000
+      internalID: 6721790629109224318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_69
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 636
+        width: 292
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b57f9dc53d3e0930800000000000000
+      internalID: 4111290811128182197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_70
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 636
+        width: 293
+        height: 541
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d2df176f2047c50800000000000000
+      internalID: 6661953006285434233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_71
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 636
+        width: 292
+        height: 543
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4323c13f2a6aa97f0800000000000000
+      internalID: -604987981134286284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_72
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 636
+        width: 292
+        height: 538
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf8598161af51d00800000000000000
+      internalID: 942934669812666315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_73
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 636
+        width: 292
+        height: 543
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf047b37b8bf0110800000000000000
+      internalID: 1229404320411422656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_74
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 636
+        width: 292
+        height: 541
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ba7370fc45a3d90800000000000000
+      internalID: -7117283012949595270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_75
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 636
+        width: 291
+        height: 536
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080d48a6f6f6660a0800000000000000
+      internalID: -6888696055697452928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_76
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 58
+        width: 282
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53370955a35e0e80800000000000000
+      internalID: -8210533101021482150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_77
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 57
+        width: 281
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3038d41c25126f0800000000000000
+      internalID: -711196275965230103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emo chess kid_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 58
+        width: 282
+        height: 518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1911ddf75ba824d10800000000000000
+      internalID: 2108400087701721489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

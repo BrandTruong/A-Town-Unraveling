@@ -1,0 +1,114 @@
+[{
+        "Librarian": "What can I do for you today detective?"
+    },
+    {
+        "?": [{
+                "1": [
+                    "What can you tell me about the town?",
+                    {
+                        "Librarian": "Well, it’s a quiet town. Not much really happens here except recently."
+                    },
+                    {
+                        "Librarian": "You’ve seen the news. The murders and such. It’s a real Tragedy."
+                    },
+                    {
+                        "EOD": "EOD"
+                    }
+                ]
+            },
+            {
+                "2": [
+                    "How have there been so many killings linked to the library?",
+                    {
+                        "Librarian": "The library has many events ya’ see, and I like to let those events go a little late."
+                    },
+                    {
+                        "Librarian": "So, I give a couple people keys to the library so they can lock up after they are done."
+                    },
+                    {
+                        "Player": "Don’t you think that is dangerous? The murderer could be using their key to get in and kill people!"
+                    },
+                    {
+                        "Librarian": "I have cut down on the number of people I have given a key to. Now only the heads of different groups have keys."
+                    },
+                    {
+                        "Librarian": "Don’t tell anyone, but I was told by the police that they didn’t think the murderer left the library through any exit. They must have used the secret tunnel in the basement."
+                    },
+                    {
+                        "Player": "Where does this escape passage lead?"
+                    },
+                    {
+                        "Librarian": "I’ve never gone through it myself, but I think it leads to somewhere near the church."
+                    },
+                    {
+                        "EOD": "EOD"
+                    }
+                ]
+            },
+            {
+                "3": [
+                    "Who is that boy in the corner down there?",
+                    {
+                        "Librarian": "I believe that’s Gary. Weird little kid he is."
+                    },
+                    {
+                        "Player": "What do you mean?"
+                    },
+                    {
+                        "Librarian": "Well, he is always off by himself. Doesn’t talk to other kids his age that much."
+                    },
+                    {
+                        "Player": "That’s not that uncommon?"
+                    },
+                    {
+                        "Librarian": "I don’t know how to put this exactly, but he’s just not like the other kids. Doesn’t have a girlfriend, is part of the chess club, but I never see him play. And I don’t think I ever see him eat or drink."
+                    },
+                    {
+                        "Librarian": "Is there anything else you wanna ask?"
+                    },
+                    {
+                        "EOD": "EOD"
+                    }
+                ]
+            },
+            {
+                "4": [
+                    "Who are the men playing chess?",
+                    {
+                        "Librarian": "Well, the one losing is Joey, not too much to say about Joey."
+                    },
+                    {
+                        "Librarian": "But the one winning, that’s…. well…. I’m not sure what his name is."
+                    },
+                    {
+                        "Player": "Do you know anything about him?"
+                    },
+                    {
+                        "Librarian": "Well, he showed up in town about a month or two ago. I don’t know where he lives, but he always shows up for chess events."
+                    },
+                    {
+                        "Librarian": "He used to have big fights with the previous chess club leader,  Charles, God rest his soul."
+                    },
+                    {
+                        "Player": "Would these fights ever get physical?"
+                    },
+                    {
+                        "Librarian": "I don’t think so, but Charles would always beat the new boy you saw. And, he wasn’t exactly a good winner. If you catch my drift."
+                    },
+                    {
+                        "Librarian": "One could tell that the boy downstairs resented Charles for his attitude."
+                    },
+                    {
+                        "Librarian": "But that new boy has only ever been really nice to me. I can’t even imagine he could do something as horrible as kill Charles for something like that. Do you?"
+                    },
+                    {
+                        "Player": "I’m not sure ma'am, I’ve seen people do some pretty dark things."
+                    },
+                    {
+                        "EOD": "EOD"
+                    }
+                ]
+            }
+        ]
+    }
+]
