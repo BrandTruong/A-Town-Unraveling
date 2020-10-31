@@ -3,8 +3,8 @@
 **A Town Unraveling** is a side-scrolling game made by Team Evan of ACM Game Studios. Revolving around the theme "Stuck in a Loop" for Ludum Dare 47. My task during this project was to design the scripts behind the dialogue and story
 
 ## Screenshots
-<img src='screenshots/test.gif' title='Video Demo' width='' alt='Video' />
-<img src='screenshots/Screenshot 2020-10-30 171855.png' title='Demo' width='' alt='police office' />
+<img src='Screenshots/test.gif' title='Video Demo' width='' alt='Video' />
+<img src='Screenshots/Screenshot 2020-10-30 171855.png' title='Demo' width='' alt='police office' />
 
 ## License
  The MIT License (MIT)
